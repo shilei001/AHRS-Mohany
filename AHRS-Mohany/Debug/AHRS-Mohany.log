@@ -1,0 +1,14 @@
+﻿  MohanyAhrs.cpp
+f:\program data\ahrs-mohany\ahrs-mohany\mohanyahrs.cpp(42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program data\ahrs-mohany\ahrs-mohany\mohanyahrs.cpp(62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program data\ahrs-mohany\ahrs-mohany\mohanyahrs.cpp(68): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program data\ahrs-mohany\ahrs-mohany\mohanyahrs.cpp(90): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program data\ahrs-mohany\ahrs-mohany\mohanyahrs.cpp(148): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program data\ahrs-mohany\ahrs-mohany\mohanyahrs.cpp(170): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program data\ahrs-mohany\ahrs-mohany\mohanyahrs.cpp(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program data\ahrs-mohany\ahrs-mohany\mohanyahrs.cpp(173): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program data\ahrs-mohany\ahrs-mohany\mohanyahrs.cpp(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\program data\ahrs-mohany\ahrs-mohany\mohanyahrs.cpp(246): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Main.cpp
+  正在生成代码...
+  AHRS-Mohany.vcxproj -> F:\program data\AHRS-Mohany\Debug\AHRS-Mohany.exe
